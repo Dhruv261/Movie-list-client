@@ -7,5 +7,8 @@ https://github.com/Dhruv261/Movie-list-server
 To run cd into the client folder and 
 
 ```
+npm install
 npm start
 ```
+
+in terminal
